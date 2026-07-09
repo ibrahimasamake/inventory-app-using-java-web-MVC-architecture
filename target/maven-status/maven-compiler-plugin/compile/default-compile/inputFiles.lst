@@ -1,0 +1,10 @@
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/controller/CategoryServlet.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/dao/CategoryDAO.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/model/Product.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/util/DatabaseConnection.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/controller/DashboardServlet.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/controller/ProductServlet.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/model/Category.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/dao/ProductDAO.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/model/Sale.java
+/Users/ibrahimasamake/Desktop/inventory/inventory-system/src/main/java/com/inventory/dao/SaleDAO.java
